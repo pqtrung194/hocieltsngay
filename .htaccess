@@ -1,4 +1,0 @@
-AuthUserFile "/home/ubuntu/wordpress/hocieltsngay.com/.htpasswd"
-AuthType Basic
-AuthName "Protect"
-require valid-user

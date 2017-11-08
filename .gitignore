@@ -3,4 +3,5 @@ wp-config.php
 wp-settings.php
 /phpmyadmin
 /wp-admin
-
+.*
+.htpasswd
